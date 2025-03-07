@@ -21,9 +21,9 @@ ce qui fonctionne le mieux pour eux. Ils souhaitent déterminer quels produits, 
  EDA - Analyse exploratoire des données
   - Ventilation des ventes et du profit
 
-Top 10 des ventes en terme de CA
 
-[Capture d’écran 2025-03-07 à 11 26 36]
+
+![Top 10 des ventes en terme de CA](Picture%20for%20README/Top%2010%20ventes.png)
 
 
 
