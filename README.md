@@ -17,8 +17,13 @@ Mise en situation:
 ce qui fonctionne le mieux pour eux. Ils souhaitent déterminer quels produits, régions, catégories et segments de clients ils devraient cibler ou éviter.*
 
 
-- **DATA MINING ET COMPREHENSION DU JEU DE DONNEES**
+- **DATA MINING ET COMPREHENSION DU JEU DE DONNEES** /
  EDA - Analyse exploratoire des données
+  - Ventilation des ventes et du profit
+
+Top 10 des ventes en terme de CA
+
+[Capture d’écran 2025-03-07 à 11 26 36]
 
 
 
