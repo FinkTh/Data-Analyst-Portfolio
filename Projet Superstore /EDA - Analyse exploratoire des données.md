@@ -1,4 +1,4 @@
- EDA -  ANALYSE EXPLORATION DES DONNEES 
+EDA -  ANALYSE EXPLORATION DES DONNEES 
 
 Distribution des ventes et du profit 
  
@@ -114,20 +114,108 @@ La marge moyenne par catégorie:
    ![Capture d’écran 2025-03-10 à 16 07 25](https://github.com/user-attachments/assets/31abca00-8611-4296-b90b-805530e36822)
      
 
-**Interprétation**
+   **Interprétation**
 
-   📌 Furniture → Très peu de variance et quelques valeurs négatives → Secteur sensible aux remises 📉
+   - Furniture → Très peu de variance et quelques valeurs négatives → Secteur sensible aux remises 📉
 
-   📌 Office Supplies → Variabilité un peu plus grande mais profits généralement bas → Stabilité moyenne 🔄
+   - Office Supplies → Variabilité un peu plus grande mais profits généralement bas → Stabilité moyenne 🔄
 
-   📌 Technology → Forte dispersion et des valeurs extrêmes élevées → Secteur très rentable 🚀
+   - Technology → Forte dispersion et des valeurs extrêmes élevées → Secteur très rentable 🚀
 
-**Conclusion**
+   **Conclusion**
 
-   ✅ Les meubles (Furniture) sont les moins rentables, donc les remises doivent être bien contrôlées pour éviter les pertes.
+   - Les meubles (Furniture) sont les moins rentables, donc les remises doivent être bien contrôlées pour éviter les pertes.
 
-   ✅ Les fournitures de bureau (Office Supplies) sont moyennement rentables, donc un ajustement des remises peut être optimisé.
+   - Les fournitures de bureau (Office Supplies) sont moyennement rentables, donc un ajustement des remises peut être optimisé.
 
-   ✅ La technologie (Technology) est largement plus rentable, donc elle peut supporter un peu plus de discount sans trop impacter le profit.
+   - La technologie (Technology) est largement plus rentable, donc elle peut supporter un peu plus de discount sans trop impacter le profit.
+
+---
+
+**Ventilation des ventes et des volumes par sous-catégories**
+
+   ![Capture d’écran 2025-03-10 à 16 13 35](https://github.com/user-attachments/assets/9eaa8ace-4186-47b2-8de4-18a7897b7d0f)
 
 
+**Top 5 des ventes et des bénéfices dans les sous-catégories**
+
+   ![Capture d’écran 2025-03-10 à 16 14 11](https://github.com/user-attachments/assets/3078ab56-1c5c-4fdd-a01e-c09df5bf6a11)
+
+
+**Distribution des Remises par Sous-Catégorie de Produits**
+
+Notre boxplot permet de visualiser la distribution des remises pour chaque sous-catégorie de produits et d’identifier les valeurs aberrantes et pouvoir comparer efficacement les sous-catégories.
+
+
+   ![Capture d’écran 2025-03-10 à 16 15 19](https://github.com/user-attachments/assets/239c6d1e-6d3d-4e50-b0ff-93642ad9c997)
+
+
+**Observations** **Variations entre Catégories** :
+
+   - **Furniture** : La catégorie Furniture a la moyenne de discount la plus élevée (0.1739), ce qui pourrait indiquer 
+     une stratégie de promotion plus agressive pour ces produits.
+
+   - **Office Supplies** : Cette catégorie a une moyenne de discount plus faible (0.1573), mais une variabilité plus 
+     élevée (std = 0.2295), ce qui suggère une plus grande diversité dans les réductions offertes.
+
+   - **Technology** : La catégorie Technology a la moyenne de discount la plus faible (0.1323), indiquant peut-être une 
+     stratégie de prix plus conservatrice. Variations entre Sous-Catégories :
+
+   - **Binders** : La sous-catégorie Binders a une moyenne de discount très élevée (0.3723), ce qui pourrait être dû à 
+     des promotions spécifiques ou à une stratégie de liquidation.
+
+   - **Machines** : La sous-catégorie Machines a également une moyenne de discount élevée (0.3061), ce qui pourrait 
+     indiquer des promotions importantes sur ces produits.
+
+   - **Accessories, Art, Envelopes, etc.** : Ces sous-catégories ont des moyennes de discount plus faibles, ce qui 
+     pourrait refléter des stratégies de prix différentes.
+
+---
+
+**Analyse de la ventilation des bénéfices et des pertes**
+
+   ![Capture d’écran 2025-03-10 à 16 19 42](https://github.com/user-attachments/assets/58c34f6f-b5ed-4ee4-961e-9e5189dd8360)
+
+   - On remarque qu'il y a des bénéfices négatifs dans un ensemble de données. On va investiguer pour en connaitre les raisons.
+
+   ![Capture d’écran 2025-03-10 à 16 20 21](https://github.com/user-attachments/assets/39fe4eef-c846-4d0b-8510-8dca834d8bbe)
+
+   **Quelques chiffres :** 
+
+   | **Profit Sign** | **Profit** | **Percentage** |
+   | --- | --- | --- |
+   | **Negative** | -156 131€ | 26.08% |
+   | **Positive** | 442 528€ | 73.92% |
+
+ Intuitivement je me dirige vers le problème de "Mode d'expédition".
+
+Cependant il est utile de vérifier les différentes possibilités pour avoir une vision à 360°C
+
+   **Explications potentielles pour un bénéfice négatif** :
+
+   - **Coûts d'expédition** : Si le coût d'expédition dépasse le revenu généré par la vente, cela peut entraîner un 
+     bénéfice négatif. Différents modes d'expédition peuvent avoir des coûts variés, certains étant plus élevés que 
+     d'autres.
+
+   - **Réductions ou promotions** : Si des réductions ou promotions importantes sont appliquées à certaines commandes, 
+     le revenu des ventes peut ne pas couvrir les coûts, entraînant un bénéfice négatif.
+
+   - **Retours ou marchandises endommagées** : Si des marchandises sont retournées ou endommagées pendant l'expédition, 
+     les coûts associés à ces retours ou dommages peuvent dépasser le revenu, entraînant une perte.
+
+   - **Inefficacités opérationnelles** : Les inefficacités dans la chaîne d'approvisionnement ou les processus 
+     opérationnels peuvent entraîner des coûts plus élevés, qui peuvent ne pas être compensés par le revenu des ventes.
+
+   - **Stratégie de tarification** : Dans certains cas, une stratégie de tarification peut intentionnellement fixer des 
+     prix bas pour capturer des parts de marché ou liquider des stocks, même si cela entraîne une perte à court terme.
+
+Dans le cadre de étude actuelle, nous ne disposons pas de données nécessaires pour évaluer les **retours ou marchandises endommagées**, les **inefficacités opérationnelles** ainsi que la **stratégie de tarification**. Les informations disponibles ne sont pas adaptées à ces analyses.
+
+Pour approfondir notre enquête, nous allons dans un premier temps analyser les données afin de déterminer s'il existe **une corrélation univariée entre le "Mode d'expédition" et le bénéfice négatif**.
+
+Dans un second temps nous analyserons l'impact des **réductions et promotions** sur ces mêmes bénéfices négatifs.
+
+   ![Capture d’écran 2025-03-10 à 16 22 32](https://github.com/user-attachments/assets/c9323249-1784-489c-bc70-6003e96988eb)
+
+  
+   
