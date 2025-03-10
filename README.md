@@ -29,7 +29,7 @@ Compétences:
  **DATA MINING ET COMPREHENSION DU JEU DE DONNEES** 
 
  
-   [(https://github.com/FinkTh/Data-Analyst-Portfolio/blob/dd869d9aa87d7e6d5f7564fe443065d5b51f9b9b/Projet%20Superstore%20/EDA%20-%20Analyse%20exploratoire%20des%20donn%C3%A9es.md)]
+  [Projet Superstore /EDA - Analyse exploratoire des données.md](https://github.com/FinkTh/Data-Analyst-Portfolio/blob/7122cc19b18921f663fb00d969860f562213ba71/Projet%20Superstore%20/EDA%20-%20Analyse%20exploratoire%20des%20donn%C3%A9es.md)
 
 
  **DASHBOARD LOOKER**
