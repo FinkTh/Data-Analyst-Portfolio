@@ -2,8 +2,8 @@
 
 - Distribution des ventes et du profit
  
-    ![Distribution](Picture%20for%20README/Distrib%20Sales.png)
-    
+    ![Distrib Sales](https://github.com/user-attachments/assets/2ad01135-b02c-45bb-83b7-8bad555aaa10)
+
 
 **Interprétation des résultats**
 
