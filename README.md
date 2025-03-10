@@ -41,7 +41,7 @@ Compétences:
 
  **MODÈLE PRÉDICTIF**
 
-  [Projet Superstore /Dashboard interactif sur Looker.md](https://github.com/FinkTh/Data-Analyst-Portfolio/blob/9eace761c267fb01e0a83cdaf78c435ce6d320ac/Projet%20Superstore%20/Etude%20de%20faisabilit%C3%A9%20d%E2%80%99un%20mod%C3%A8le%20pr%C3%A9dictif.md)
+  [Projet Superstore /Etude de faisabilité d’un modèle prédictif.md](https://github.com/FinkTh/Data-Analyst-Portfolio/blob/9eace761c267fb01e0a83cdaf78c435ce6d320ac/Projet%20Superstore%20/Etude%20de%20faisabilit%C3%A9%20d%E2%80%99un%20mod%C3%A8le%20pr%C3%A9dictif.md)
 
 
 ---
