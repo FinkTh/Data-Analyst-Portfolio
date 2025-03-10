@@ -171,12 +171,13 @@ Notre boxplot permet de visualiser la distribution des remises pour chaque sous-
      pourrait refléter des stratégies de prix différentes.
 
 ---
+**Analyse des pertes**
 
-**Analyse de la ventilation des bénéfices et des pertes**
+  - **Analyse de la ventilation des bénéfices et des pertes**
 
    ![Capture d’écran 2025-03-10 à 16 19 42](https://github.com/user-attachments/assets/58c34f6f-b5ed-4ee4-961e-9e5189dd8360)
 
-   - On remarque qu'il y a des bénéfices négatifs dans un ensemble de données. On va investiguer pour en connaitre les raisons.
+   On remarque qu'il y a des bénéfices négatifs dans un ensemble de données. On va investiguer pour en connaitre les raisons.
 
    ![Capture d’écran 2025-03-10 à 16 20 21](https://github.com/user-attachments/assets/39fe4eef-c846-4d0b-8510-8dca834d8bbe)
 
@@ -217,5 +218,21 @@ Dans un second temps nous analyserons l'impact des **réductions et promotions*
 
    ![Capture d’écran 2025-03-10 à 16 22 32](https://github.com/user-attachments/assets/c9323249-1784-489c-bc70-6003e96988eb)
 
-  
+  1. **Sales et Profit:**
+    - Une corrélation positive modérée (0.48) indique que des ventes plus élevées tendent à générer des bénéfices plus 
+      élevés. Cela montre une relation typique attendue.
+  2. **Discount et Profit:**
+    - La corrélation négative (-0.22) suggère que des réductions plus élevées tendent à réduire les bénéfices. Cela est 
+      logique, car offrir des réductions ou des rabais impacte les marges bénéficiaires.
+  3. **Quantity et Sales:**
+    - Une corrélation faible mais positive (0.20) indique que de plus grandes quantités sont légèrement liées à des 
+      ventes plus élevées. Cela reflète que vendre plus d'unités conduit souvent à plus de ventes en valeur.
+
+---
+
+
+
+
+
+
    
