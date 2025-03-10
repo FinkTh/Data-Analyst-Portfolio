@@ -38,11 +38,11 @@
 
       Les résultats montrent clairement que les profits varient énormément selon les catégories de produits :
 
-     📌 Furniture → 8.7 📉 (bas)
+      📌 Furniture → 8.7 📉 (bas)
 
-     📌 Office Supplies → 20.3 🔄 (moyen)
+      📌 Office Supplies → 20.3 🔄 (moyen)
 
-     📌 Technology → 78.75 🚀 (haut)
+      📌 Technology → 78.75 🚀 (haut)
 
    ![Image by cat](Picture%20for%20README/rep%20mar.png)       
 
