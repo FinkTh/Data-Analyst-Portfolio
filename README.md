@@ -35,6 +35,8 @@ Compétences:
  **DASHBOARD LOOKER**
 
 
+  https://github.com/FinkTh/Data-Analyst-Portfolio/blob/31e84fac9496ab87a27f847688ea48aec2c0c262/Projet%20Superstore%20/Dashboard%20interactif%20sur%20Looker.md
+
 
 
  **MODÈLE PRÉDICTIF**
