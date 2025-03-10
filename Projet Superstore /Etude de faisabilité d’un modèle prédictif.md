@@ -12,7 +12,9 @@ L'objectif initial était d'évaluer la faisabilité d'un modèle prédictif per
 ![Capture d’écran 2025-03-10 à 18 17 12](https://github.com/user-attachments/assets/680ce345-1890-40b1-af1c-7ef3fc7bb413)
 
 Caractéristiques catégorielles finales : ['Ship Mode', 'Segment', 'Region', 'State', 'Category', 'Sub-Category', 'Profit Sign']
+
 Caractéristiques numériques finales : ['Discount', 'Sales', 'Quantity', 'Profit_margin']
+
 Score du modèle sur l'ensemble de test : -0.03
 
 - Code du baseline model avec un RandomForest
