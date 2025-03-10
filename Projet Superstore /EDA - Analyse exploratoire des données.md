@@ -57,56 +57,62 @@ Distribution des ventes et du profit
 🔹 On peut envisager une transformation des données (log) ou un modèle plus robuste (XGBoost, Random Forest).
 
 
+---
 
-
-
-
---------------------------------------------------------------------------------------------------------------------------------
-- Ventilation des ventes et du profit
-  - Top 10 des produits chez SuperStore
+Top 10 des produits chez SuperStore
     
-    ![Top 10 des ventes en terme de CA](Picture%20for%20README/Top%2010%20ventes.png)
-    ![Top 10 stack des Bénéfices](Picture%20for%20README/Top%2010%20stack%20Benef.png)
+   ![Capture d’écran 2025-03-10 à 15 52 16](https://github.com/user-attachments/assets/cd8d6489-5b33-40b8-b95d-07ccebd003aa)
+ 
+   ![Capture d’écran 2025-03-10 à 15 52 29](https://github.com/user-attachments/assets/d67b433e-6765-4803-85eb-1a0768f43ce9)
+ 
 
-  Le graphique des meilleures ventes présente les 10 produits ayant généré le plus de chiffre d'affaires. On observe que le **Canon imageCLASS 2200 Advanced Copier** est en tête, avec un volume de ventes nettement supérieur aux autres produits. Cette tendance indique une forte demande ou une performance exceptionnelle pour des produits clé. Les résultats suggèrent qu'il pourrait être bénéfique d'investir davantage dans ces produits ou de comprendre les facteurs de leur succès afin de les appliquer à d'autres segments.
-  
-    - Flop 10 des produits chez SuperStore
+   Le graphique des meilleures ventes présente les 10 produits ayant généré le plus de chiffre d'affaires. On observe que le **Canon imageCLASS 2200 Advanced Copier** est en tête, avec un volume de ventes nettement supérieur aux autres produits. Cette tendance indique une forte demande ou une performance exceptionnelle pour des produits clé. Les résultats suggèrent qu'il pourrait être bénéfique d'investir davantage dans ces produits ou de comprendre les facteurs de leur succès afin de les appliquer à d'autres segments.
+
+---
+
+Flop 10 des produits chez SuperStore
      
-      ![Top Flop vente](Picture%20for%20README/Top%20Flop%20vente.png)
-      ![Top flop avec Bénéfice](Picture%20for%20README/Top%20flop%20avec%20Benef.png)
+   ![Capture d’écran 2025-03-10 à 15 52 44](https://github.com/user-attachments/assets/1ea353cc-7b5e-4624-982a-dbdd1170c13b)
+
+   ![Capture d’écran 2025-03-10 à 15 52 58](https://github.com/user-attachments/assets/086026ec-6923-43a9-876e-f5f3be26a7ff)
+
 
   Le deuxième graphique présente les 10 produits les moins vendus avec une vue détaillée des bénéfices. On constate que chacun de ces produits affiche des pertes en termes de profit. Ceci pourrait résulter de prix de vente trop bas, de coûts élevés, ou de réductions importantes. Il est essentiel d'examiner ces produits de près pour identifier les raisons exactes de ces pertes et déterminer si des ajustements, comme la révision des prix, la modification des stratégies de marketing, ou même le retrait du produit, seraient bénéfiques.
+  
+---
 
-    - Comparatif des catégories les plus performantes
+Comparatif des catégories les plus performantes
        
-        ![Image by cat](Picture%20for%20README/by%20cat.png)
-        ![Image by cat](Picture%20for%20README/marge%20by%20cat.png)       
+   ![Capture d’écran 2025-03-10 à 16 06 37](https://github.com/user-attachments/assets/90f37d60-0d25-4f42-92bb-3e1e550b8b00)
+
+   ![Capture d’écran 2025-03-10 à 16 06 57](https://github.com/user-attachments/assets/b8000319-e377-4528-9f9a-373f87016731)
+       
       
-      La marge moyenne par catégorie:
+La marge moyenne par catégorie:
  
-      📌Furniture → 3,88%
+   📌Furniture → 3,88%
 
-      📌 Office Supplies → 13,8%
+   📌 Office Supplies → 13,8%
 
-      📌 Technology → 15,61%
+   📌 Technology → 15,61%
 
 
-      | **Category** | **Profit** |
-      | --- | --- |
-      | Furniture | 8.699327 |
-      | Office Supplies | 20.327050 |
-      | Technology | 78.752002 |
+   | **Category** | **Profit** |
+   | --- | --- |
+   | Furniture | 8.699327 |
+   | Office Supplies | 20.327050 |
+   | Technology | 78.752002 |
 
-      Les résultats montrent clairement que les profits varient énormément selon les catégories de produits :
+   Les résultats montrent clairement que les profits varient énormément selon les catégories de produits :
 
-      📌 Furniture → 8.7 📉 (bas)
+   📌 Furniture → 8.7 📉 (bas)
 
-      📌 Office Supplies → 20.3 🔄 (moyen)
+   📌 Office Supplies → 20.3 🔄 (moyen)
 
-      📌 Technology → 78.75 🚀 (haut)
+   📌 Technology → 78.75 🚀 (haut)
 
-   ![Image by cat](Picture%20for%20README/rep%20mar.png)       
-
+   ![Capture d’écran 2025-03-10 à 16 07 25](https://github.com/user-attachments/assets/31abca00-8611-4296-b90b-805530e36822)
+     
 
 **Interprétation**
 
