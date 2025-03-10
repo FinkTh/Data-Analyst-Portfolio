@@ -21,30 +21,31 @@
         ![Image by cat](Picture%20for%20README/by%20cat.png)
         ![Image by cat](Picture%20for%20README/marge%20by%20cat.png)       
       
-     La marge moyenne par catégorie:
+      La marge moyenne par catégorie:
  
-     📌Furniture → 3,88%
+      📌Furniture → 3,88%
 
-     📌 Office Supplies → 13,8%
+      📌 Office Supplies → 13,8%
 
-     📌 Technology → 15,61%
+      📌 Technology → 15,61%
 
 
-     | **Category** | **Profit** |
-     | --- | --- |
-     | Furniture | 8.699327 |
-     | Office Supplies | 20.327050 |
-     | Technology | 78.752002 |
+      | **Category** | **Profit** |
+      | --- | --- |
+      | Furniture | 8.699327 |
+      | Office Supplies | 20.327050 |
+      | Technology | 78.752002 |
 
-     Les résultats montrent clairement que les profits varient énormément selon les catégories de produits :
+      Les résultats montrent clairement que les profits varient énormément selon les catégories de produits :
 
-    📌 Furniture → 8.7 📉 (bas)
+     📌 Furniture → 8.7 📉 (bas)
 
-    📌 Office Supplies → 20.3 🔄 (moyen)
+     📌 Office Supplies → 20.3 🔄 (moyen)
 
-    📌 Technology → 78.75 🚀 (haut)
+     📌 Technology → 78.75 🚀 (haut)
 
    ![Image by cat](Picture%20for%20README/rep%20mar.png)       
+
 
 **Interprétation**
 
