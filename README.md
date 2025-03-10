@@ -13,7 +13,7 @@ Projet en équipe pluridisciplinaire avec un Data Scientist
 
 Mise en situation:
 
-*Avec des demandes croissantes et une concurrence féroce sur le marché, un Géant de la grande distribution cherche à bénéficier de votre expertise pour comprendre 
+*Avec des demandes croissantes et une concurrence féroce sur le marché, un géant de la grande distribution cherche à bénéficier de votre expertise pour comprendre 
 ce qui fonctionne le mieux pour eux. Ils souhaitent déterminer quels produits, régions, catégories et segments de clients ils devraient cibler ou éviter.*
 
 Compétences:
