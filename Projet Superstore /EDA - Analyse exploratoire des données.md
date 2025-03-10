@@ -1,9 +1,9 @@
  EDA - Analyse exploratoire des données
 
 - Distribution des ventes et du profit
-- 
-     ![Distribution](Picture%20for%20README/Distrib%20ales.png)
-
+ 
+    ![Distribution](Picture%20for%20README/Distrib%20Xales.png)
+    
 
 **Interprétation des résultats**
 
