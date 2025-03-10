@@ -1,4 +1,3 @@
- **DATA MINING ET COMPREHENSION DU JEU DE DONNEES** /
  EDA - Analyse exploratoire des données
 
 - Ventilation des ventes et du profit
