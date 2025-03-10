@@ -61,7 +61,7 @@ Compétences:
 
 **PRÉSENTION GOOGLE SLIDE**
 
-   [Projet Superstore /Intégrer l’IA chez un E-Commerce de Plante.md](https://github.com/FinkTh/Data-Analyst-Portfolio/blob/16a75a85e1c789504378d093a7f00deedaae885e/Projet%20Reco%20E-Commerce/Int%C3%A9grer%20l%E2%80%99IA%20chez%20un%20E-Commerce%20de%20Plante.md)
+   [Projet Reco E-Commerce /Intégrer l’IA chez un E-Commerce de Plante.md](https://github.com/FinkTh/Data-Analyst-Portfolio/blob/16a75a85e1c789504378d093a7f00deedaae885e/Projet%20Reco%20E-Commerce/Int%C3%A9grer%20l%E2%80%99IA%20chez%20un%20E-Commerce%20de%20Plante.md)
 
 ---
 
