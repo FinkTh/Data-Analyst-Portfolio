@@ -1,13 +1,11 @@
- EDA - Analyse exploratoire des données
 
-- Distribution des ventes et du profit
+DISTRIBUTION DES VENTES ET DU PROFIT 
  
-    ![Distrib Sales](https://github.com/user-attachments/assets/2ad01135-b02c-45bb-83b7-8bad555aaa10)
+   ![Distrib Sales](https://github.com/user-attachments/assets/2ad01135-b02c-45bb-83b7-8bad555aaa10)
 
 
-**Interprétation des résultats**
+**Interprétation des résultat**
 
----
 
 **Distribution des Ventes (Sales)**
 
