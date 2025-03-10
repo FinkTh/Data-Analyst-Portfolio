@@ -47,6 +47,7 @@ Compétences:
 ---
 [PRÉSENTATION POUR UN SITE DE E-COMMERCE DANS LA VENTE DES PLANTES](#)
 
+Projet réalisé lors de ma certification Concepteur Développeur en Intelligence Artificielle et Analyse Big Data, Option Data Analyse 
 
 Mise en situation:
 
@@ -59,5 +60,9 @@ Compétences:
 
 
 **PRÉSENTION GOOGLE SLIDE**
+
+
+---
+
 
 
