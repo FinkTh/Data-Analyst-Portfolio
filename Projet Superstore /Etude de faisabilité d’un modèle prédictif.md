@@ -1,6 +1,6 @@
 L'objectif initial était d'évaluer la faisabilité d'un modèle prédictif permettant d'optimiser les remises de manière data-driven.
 
-**Baseline model :**
+**BASELINE MODEL :**
 
 - Les colonnes de notre dataset
 
