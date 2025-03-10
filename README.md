@@ -55,8 +55,10 @@ Mise en situation:
 
 Compétences:
 
-- Gestion de projet
-- 
+- Gestion de projet.
+- Analyse des risques et conformité.
+- Capacité à planifier et organiser efficacement les tâches avec un rétroplanning clair.
+- Capacité à recommander des solutions d'IA pertinentes.
 
 
 **PRÉSENTION GOOGLE SLIDE**
