@@ -51,7 +51,7 @@ Projet réalisé lors de ma certification Concepteur Développeur en Intelligenc
 
 Mise en situation:
 
-*Préparez une présentation pour convaincre votre CTO de développer des projets d’IA pour un site de E-Commerce.*
+*Préparez une présentation pour convaincre votre CTO de développer des projets d’IA pour un site de E-Commerce. La recommandation que vous devez poussez à votre hiérarchie est la suivante : un système de recommandation de plantes sur l'application/site e-commerce. Détaillez les risques RGPD, environnementaux et/ou éthiques que vous percevez dans l'intégration de cette nouvelle fonctionnalité et détaillez les besoins en compétences techniques, en ressources humaines, en ressources matérielles et logicielles.*
 
 Compétences:
 
