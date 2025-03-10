@@ -55,9 +55,9 @@ Mise en situation:
 
 Compétences:
 
-- Gestion de projet.
 - Maîtrise des outils de présentation comme Google Slides ou PowerPoint.
 - Analyse des risques et conformité.
+- Gestion de projet.
 - Capacité à planifier et organiser efficacement les tâches avec un rétroplanning clair.
 - Capacité à recommander des solutions d'IA pertinentes.
 - Adapter la présentation en fonction des besoins et intérêts de l'audience.
