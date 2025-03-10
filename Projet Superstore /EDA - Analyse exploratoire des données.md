@@ -274,5 +274,6 @@ Ce bar plot illustre clairement **l'impact détaillé des remises sur les ventes
 
 **Conclusion** : Depuis 2015, nous observons que l'entreprise applique une réduction globale inférieure à 20 %, avec une **moyenne de 15,6 %**. 
 
+
 Notre analyse, bien que basée sur des hypothèses, démontre clairement l'impact significatif de cette stratégie sur le bénéfice.
    
