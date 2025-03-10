@@ -21,45 +21,45 @@
         ![Image by cat](Picture%20for%20README/by%20cat.png)
         ![Image by cat](Picture%20for%20README/marge%20by%20cat.png)       
       
- La marge moyenne par catégorie:
+     La marge moyenne par catégorie:
  
-📌Furniture → 3,88%
+     📌Furniture → 3,88%
 
-📌 Office Supplies → 13,8%
+     📌 Office Supplies → 13,8%
 
-📌 Technology → 15,61%
+     📌 Technology → 15,61%
 
 
-| **Category** | **Profit** |
-| --- | --- |
-| Furniture | 8.699327 |
-| Office Supplies | 20.327050 |
-| Technology | 78.752002 |
+     | **Category** | **Profit** |
+     | --- | --- |
+     | Furniture | 8.699327 |
+     | Office Supplies | 20.327050 |
+     | Technology | 78.752002 |
 
-Les résultats montrent clairement que les profits varient énormément selon les catégories de produits :
+     Les résultats montrent clairement que les profits varient énormément selon les catégories de produits :
 
-📌 Furniture → 8.7 📉 (bas)
+    📌 Furniture → 8.7 📉 (bas)
 
-📌 Office Supplies → 20.3 🔄 (moyen)
+    📌 Office Supplies → 20.3 🔄 (moyen)
 
-📌 Technology → 78.75 🚀 (haut)
+    📌 Technology → 78.75 🚀 (haut)
 
    ![Image by cat](Picture%20for%20README/rep%20mar.png)       
 
 **Interprétation**
 
-📌 Furniture → Très peu de variance et quelques valeurs négatives → Secteur sensible aux remises 📉
+   📌 Furniture → Très peu de variance et quelques valeurs négatives → Secteur sensible aux remises 📉
 
-📌 Office Supplies → Variabilité un peu plus grande mais profits généralement bas → Stabilité moyenne 🔄
+   📌 Office Supplies → Variabilité un peu plus grande mais profits généralement bas → Stabilité moyenne 🔄
 
-📌 Technology → Forte dispersion et des valeurs extrêmes élevées → Secteur très rentable 🚀
+   📌 Technology → Forte dispersion et des valeurs extrêmes élevées → Secteur très rentable 🚀
 
 **Conclusion**
 
-✅ Les meubles (Furniture) sont les moins rentables, donc les remises doivent être bien contrôlées pour éviter les pertes.
+   ✅ Les meubles (Furniture) sont les moins rentables, donc les remises doivent être bien contrôlées pour éviter les pertes.
 
-✅ Les fournitures de bureau (Office Supplies) sont moyennement rentables, donc un ajustement des remises peut être optimisé.
+   ✅ Les fournitures de bureau (Office Supplies) sont moyennement rentables, donc un ajustement des remises peut être optimisé.
 
-✅ La technologie (Technology) est largement plus rentable, donc elle peut supporter un peu plus de discount sans trop impacter le profit.
+   ✅ La technologie (Technology) est largement plus rentable, donc elle peut supporter un peu plus de discount sans trop impacter le profit.
 
 
