@@ -1,55 +1,56 @@
+ EDA -  ANALYSE EXPLORATION DES DONNEES 
 
-DISTRIBUTION DES VENTES ET DU PROFIT 
+Distribution des ventes et du profit 
  
    ![Distrib Sales](https://github.com/user-attachments/assets/2ad01135-b02c-45bb-83b7-8bad555aaa10)
 
 
-**Interprétation des résultat**
+   **Interprétation des résultat**
 
 
-**Distribution des Ventes (Sales)**
+   **Distribution des Ventes (Sales)**
 
-**Forme de la distribution** : La distribution des ventes est fortement asymétrique à droite (right-skewed). Cela signifie que la majorité des transactions ont des montants de vente relativement faibles, mais qu'il existe quelques transactions avec des montants de vente très élevés.
+   - **Forme de la distribution** : La distribution des ventes est fortement asymétrique à droite (right-skewed). Cela signifie que la majorité des transactions ont des montants de vente relativement faibles, mais qu'il existe quelques transactions avec des montants de vente très élevés.
 
-**Pic à gauche** : Le pic à gauche indique qu'il y a un grand nombre de transactions avec des montants de vente proches de zéro.
+   - **Pic à gauche** : Le pic à gauche indique qu'il y a un grand nombre de transactions avec des montants de vente proches de zéro.
 
-**Long Tail** : La queue longue à droite montre qu'il y a quelques transactions avec des montants de vente très élevés, mais elles sont rares.
-
----
-
-**Distribution des Bénéfices (Profit)**
-
-**Forme de la distribution** : La distribution des bénéfices est également asymétrique, mais elle semble plus centrée autour de zéro avec une queue s'étendant vers la droite.
-
-**Pic autour de zéro** : Le pic autour de zéro indique que de nombreuses transactions ont des bénéfices proches de zéro.
-
-**Valeurs négatives** : Il y a des valeurs négatives de bénéfices, ce qui signifie que certaines transactions ont entraîné des pertes.
-
-**Longue Tail** : La queue longue à droite montre qu'il y a quelques transactions avec des bénéfices très élevés, mais elles sont rares.
+   - **Long Tail** : La queue longue à droite montre qu'il y a quelques transactions avec des montants de vente très élevés, mais elles sont rares.
 
 ---
 
-**Interprétation Globale**
+   **Distribution des Bénéfices (Profit)**
 
-**Asymétrie** : Les deux distributions sont asymétriques, ce qui est typique dans de nombreux ensembles de données financières où quelques transactions peuvent avoir des valeurs extrêmement élevées.
+   - **Forme de la distribution** : La distribution des bénéfices est également asymétrique, mais elle semble plus centrée autour de zéro avec une queue s'étendant vers la droite.
 
-**Concentration autour de zéro** : La concentration des valeurs autour de zéro pour les bénéfices suggère que de nombreuses transactions ont des marges bénéficiaires faibles ou nulles.
+   - **Pic autour de zéro** : Le pic autour de zéro indique que de nombreuses transactions ont des bénéfices proches de zéro.
 
-**Valeurs aberrantes** : Les valeurs aberrantes (outliers) dans les deux distributions peuvent indiquer des transactions exceptionnelles ou des erreurs de données potentielles.
+   - **Valeurs négatives** : Il y a des valeurs négatives de bénéfices, ce qui signifie que certaines transactions ont entraîné des pertes.
 
-**Test de normalité (Shapiro-Wilk et Kolmogorov-Smirnov)**
+   - **Longue Tail** : La queue longue à droite montre qu'il y a quelques transactions avec des bénéfices très élevés, mais elles sont rares.
 
-👉 Objectif : Nous savons que la distribution ne suit pas une loi normale. La vérification est pour renforcer notre interprétation visuelle et ainsi pouvoir choisir le modèle de prédiction.
+---
 
-Les résultats des tests de normalité indiquent clairement que la distribution du profit n’est pas normale :
+   **Interprétation Globale**
 
-📌 **Shapiro-Wilk** → p-value ≈ 1.7e-107 (<< 0.05) → Rejet de l’hypothèse de normalité
+   - **Asymétrie** : Les deux distributions sont asymétriques, ce qui est typique dans de nombreux ensembles de données financières où quelques transactions peuvent avoir des valeurs extrêmement élevées.
 
-📌 **Kolmogorov-Smirnov** → p-value ≈ 1e-323 (<< 0.05) → Rejet encore plus fort de la normalité
+   - **Concentration autour de zéro** : La concentration des valeurs autour de zéro pour les bénéfices suggère que de nombreuses transactions ont des marges bénéficiaires faibles ou nulles.
 
-💡 Interprétation : 
+   - **Valeurs aberrantes** : Les valeurs aberrantes (outliers) dans les deux distributions peuvent indiquer des transactions exceptionnelles ou des erreurs de données potentielles.
 
-🔹 Les profits ont des valeurs extrêmes (outliers) et une asymétrie.
+   **Test de normalité (Shapiro-Wilk et Kolmogorov-Smirnov)**
+
+   👉 Objectif : Nous savons que la distribution ne suit pas une loi normale. La vérification est pour renforcer notre interprétation visuelle et ainsi pouvoir choisir le modèle de prédiction.
+
+   Les résultats des tests de normalité indiquent clairement que la distribution du profit n’est pas normale :
+
+   📌 **Shapiro-Wilk** → p-value ≈ 1.7e-107 (<< 0.05) → Rejet de l’hypothèse de normalité
+ 
+   📌 **Kolmogorov-Smirnov** → p-value ≈ 1e-323 (<< 0.05) → Rejet encore plus fort de la normalité
+
+   💡 Interprétation : 
+
+   🔹 Les profits ont des valeurs extrêmes (outliers) et une asymétrie.
 
 🔹 Une régression linéaire classique pourrait être biaisée si les erreurs ne suivent pas une distribution normale.
 
