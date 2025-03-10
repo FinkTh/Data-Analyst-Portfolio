@@ -47,3 +47,17 @@ Compétences:
 ---
 [PRÉSENTATION POUR UN SITE DE E-COMMERCE DANS LA VENTE DES PLANTES](#)
 
+
+Mise en situation:
+
+*Préparez une présentation pour convaincre votre CTO de développer des projets d’IA pour un site de E-Commerce.*
+
+Compétences:
+
+- Gestion de projet
+- 
+
+
+**PRÉSENTION GOOGLE SLIDE**
+
+
