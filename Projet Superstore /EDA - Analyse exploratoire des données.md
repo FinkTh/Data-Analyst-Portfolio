@@ -230,9 +230,49 @@ Dans un second temps nous analyserons l'impact des **réductions et promotions*
 
 ---
 
+**L’impact des moyens de livraison**
 
+  ![Capture d’écran 2025-03-10 à 16 39 47](https://github.com/user-attachments/assets/d248fd88-d546-4cdb-bc5a-21075c20162c)
 
+   1. **Observations** :
+       - **Second Class** : La médiane du profit est légèrement inférieure à 30, avec une variabilité modérée.
+       - **Standard Class** : La médiane est similaire à celle de la "Second Class", mais avec une légèrement plus 
+                              grande variabilité.
+       - **First Class** : La médiane est proche de 30, avec une variabilité plus grande que les autres classes.
+       - **Same Day** : La médiane est également proche de 30, avec une variabilité similaire à celle de la "First 
+                        Class".
+    2. **Comparaison** :
+       - Les profits médians pour les différents modes de transport sont relativement proches, autour de 30.
+       - La variabilité (écart entre les valeurs minimales et maximales) est plus grande pour les modes "First Class" 
+         et "Same Day".
+    
+   **Conclusion**
+    
+   En résumé, bien que le graphique montre des différences dans la variabilité des profits entre les modes de livraison, il ne fournit pas suffisamment d'informations pour conclure sur l'impact direct des modes de livraison sur le profit. 
+    
+   Une analyse plus approfondie serait nécessaire pour tirer des conclusions plus solides.
 
+---
 
+**L’impact des discounts sur le bénéfice**
 
+ - **Comment le discount impact les bénéfices de manières globales ? **
+
+   ![Capture d’écran 2025-03-10 à 16 41 59](https://github.com/user-attachments/assets/8b5f5aed-9ac5-4c08-bdfb-a5155fb273de)
+
+   ![Capture d’écran 2025-03-10 à 16 42 31](https://github.com/user-attachments/assets/99f19a3d-a73b-4c6a-bb53-374723ee9513)
+
+Ce bar plot illustre clairement **l'impact détaillé des remises sur les ventes et, plus particulièrement, sur le profit**. 
+
+  - **Le deuxième graphique en ligne confirme notre intuition** quant à l'impact de la stratégie de remise, qui semble favoriser les pertes.
+
+  - **L'entreprise peut se permettre d'offrir jusqu'à 20 % de réduction** sur l'ensemble de son offre tout en restant rentable. Cependant, il est crucial d'ajuster ces remises en fonction des marges spécifiques de chaque produit, sous-catégorie ou catégorie.
+
+  - Nous constatons que la tranche de réduction comprise entre 30 % et 50 % entraîne des pertes significatives. En l’absence de données qualitatives nous ne pouvons aller plus loin dans l’observation de ces pertes situées dans cette tranche.
+
+  - **Hypothèse pour la tranche de 60 à 80%** : en l'absence de données qualitatives, nous supposons que cette tranche correspondrait à **une opération de déstockage**, compte tenu des faibles volumes de ventes et du chiffre d'affaires. Sans données quantitatives sur la chaîne d'approvisionnement (coûts de stockage, etc.), il est difficile d'expliquer précisément les pertes associées à cette tranche de réduction.
+
+**Conclusion** : Depuis 2015, nous observons que l'entreprise applique une réduction globale inférieure à 20 %, avec une **moyenne de 15,6 %**. 
+
+Notre analyse, bien que basée sur des hypothèses, démontre clairement l'impact significatif de cette stratégie sur le bénéfice.
    
