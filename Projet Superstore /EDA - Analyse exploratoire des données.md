@@ -2,7 +2,7 @@
 
 - Distribution des ventes et du profit
  
-    ![Distribution](Picture%20for%20README/Distrib%20Xales.png)
+    ![Distribution](Picture%20for%20README/Distrib%20Sales.png)
     
 
 **Interprétation des résultats**
