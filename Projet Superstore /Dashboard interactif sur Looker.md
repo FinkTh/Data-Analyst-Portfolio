@@ -1,5 +1,9 @@
 L'objectif de cette page est d’analyser et définir le niveau optimal de réduction pour attirer les clients, tout en préservant notre rentabilité.
 
+Vidéo de présentation:
+https://www.loom.com/share/31dc0898021d48eebaa899fe8cc5186a?sid=5aa635b1-fafb-4c25-ae6b-eaf2a62638dc
+
+
 Nous avons divisé les données en deux catégories :
 
 - **Ventes et bénéfices réels :**
