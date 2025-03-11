@@ -7,7 +7,7 @@ Voici mon Portfolio contenant différents projets de Data Analyst que j'ai réal
 
 LES PROJETS
 ----------------------------------------
-[OPTIMISATION DES MARGES POUR UN GEANT DE LA GRANDE DISTRIBUTION](#)
+[OPTIMISATION DES MARGES POUR UN GEANT DE LA GRANDE DISTRIBUTION- RÉCUPÉRER 156K€ DE PROFITS PERDUS?](#)
 
 Projet en équipe pluridisciplinaire avec Dany Tsan, Data Scientist.
 
@@ -73,7 +73,7 @@ Compétences:
     - **XGBoost (RMSE = 160.7)** : meilleur compromis performance/interprétabilité.
 
 ---
-[PRÉSENTATION POUR UN SITE E-COMMERCE DE PLANTES](#)
+[INTÉFRER UNE IA POUR UN SITE E-COMMERCE DE PLANTES](#)
 
 Projet réalisé lors de ma certification Concepteur Développeur en Intelligence Artificielle et Analyse Big Data, Option Data Analyse 
 
