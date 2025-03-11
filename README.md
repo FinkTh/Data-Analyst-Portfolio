@@ -9,7 +9,7 @@ LES PROJETS
 ----------------------------------------
 [OPTIMISATION DES MARGES POUR UN GEANT DE LA GRANDE DISTRIBUTION](#)
 
-Projet en équipe pluridisciplinaire avec un Data Scientist
+Projet en équipe pluridisciplinaire avec Dany Tsan, Data Scientist.
 
 Mise en situation:
 
