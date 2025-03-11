@@ -20,9 +20,10 @@ Compétences:
 
 - Nettoyage et organisation des données.
 - Formules Excel essentielles : SOMME, SOMME.SI, MOYENNE, RECHERCHEV.
+- Langages & Librairies : Python (Scikit-learn, Pandas, NumPy).
 - Création de tableaux croisés dynamiques avec des segments pour une navigation facile.
 - Création de graphiques dynamiques et tableaux de bord interactifs.
-- Statistiques descriptives : Moyenne, médiane, mode, quartiles, variance, écart-type.
+- Visualisation & Reporting : Matplotlib, Seaborn, Looker.
 - Analyse bivariée descriptive : Corrélations, tableaux croisés, comparaisons de moyennes.
 - Visualisation avancée : Scatter plots, boxplots, heatmap.
 
@@ -43,6 +44,33 @@ Compétences:
 
   [Projet Superstore /Etude de faisabilité d’un modèle prédictif.md](https://github.com/FinkTh/Data-Analyst-Portfolio/blob/9eace761c267fb01e0a83cdaf78c435ce6d320ac/Projet%20Superstore%20/Etude%20de%20faisabilit%C3%A9%20d%E2%80%99un%20mod%C3%A8le%20pr%C3%A9dictif.md)
 
+- 💬 Contexte
+    
+    Dans le cadre d’une mission exploratoire pour un **acteur majeur de la grande distribution**, nous avons travaillé sur un problème clé : **l’optimisation des remises commerciales**. L’objectif était de mieux comprendre l’impact des discounts sur la rentabilité et d’identifier des axes d’amélioration pour maximiser le profit.
+    
+    Nous avons utilisé le **dataset Superstore de Kaggle**, un jeu de données représentatif des enjeux rencontrés en grande distribution (gestion des marges, discounts, segmentation client).
+
+- 🔥 Mission
+    
+    📌 **Comprendre les leviers du profit** : identifier les segments de produits et clients les plus touchés par des marges négatives.
+    
+    📌 **Analyser l’impact des remises** : mesurer l’influence des discounts sur le profit global.
+    📌 **Explorer des pistes d’optimisation** via un modèle prédictif et une stratégie de recommandations business.
+    📌 **Travailler en collaboration** : nous avons travaillé en binôme avec un **Data Analyst** sur l’analyse exploratoire et la restitution des résultats.
+
+- 🎯 Résultats
+    
+    ✅ **Analyse de l’impact des remises sur la rentabilité :**
+    
+    - **156k€ de profit négatif**, soit **26% du profit total en valeur absolue**.
+    - **445k€ de profit positif**, soit **74% du profit total**.
+    - **Profit actuel : 289k€ (12%)**. Une optimisation des remises pourrait théoriquement le porter à **38% et 445k€**.
+   
+    ✅ **Modèles testés et performances :**
+
+    - **Régression Linéaire (RMSE = 225.6)** : modèle trop simple, ne capture pas la complexité des données.
+    - **Random Forest (RMSE = 178.3)** : meilleur ajustement mais manque d’explicabilité.
+    - **XGBoost (RMSE = 160.7)** : meilleur compromis performance/interprétabilité.
 
 ---
 [PRÉSENTATION POUR UN SITE E-COMMERCE DE PLANTES](#)
