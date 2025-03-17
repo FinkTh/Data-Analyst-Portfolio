@@ -19,7 +19,7 @@ ce qui fonctionne le mieux pour eux. Ils souhaitent déterminer quels produits, 
 Compétences:
 
 - Nettoyage et organisation des données.
-- Formules Excel essentielles : SOMME, SOMME.SI, MOYENNE, RECHERCHEV.
+- Formules Excel essentielles : SOMME, SOMME.SI, MOYENNE, RECHERCHEV, XLOOKUP.
 - Langages & Librairies : Python (Scikit-learn, Pandas, NumPy).
 - Création de tableaux croisés dynamiques avec des segments pour une navigation facile.
 - Création de graphiques dynamiques et tableaux de bord interactifs.
