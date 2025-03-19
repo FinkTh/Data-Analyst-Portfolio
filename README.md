@@ -97,6 +97,25 @@ Compétences:
 
 
 ---
+[CRÉATION D'UN JEU SNAKE EN MOINS DE 20H](#)
+
+Projet réalisé en moins de 20h pour une première version d'un jeu snake sur ordinateur 
+
+Mise en situation:
+
+*L'idée était de voir si j'étais capable de faire une première version d'un jeu avec de nouveau language informatique en moins de 24h. C'est projet que j'envisage de version sur plusieurs étape. La première: la version sur ordinateur*
+
+Compétences:
+- Langage de programmation moderne : Utilisation de JavaScript pour la logique du jeu.
+- Maîtrise du HTML5 et CSS3 - Création de l'interface utilisateur et du design responsive.
+- Design visuel et expérience utilisateur ergonomique.
+- Débogage et tests - Identification et correction des erreurs, tests de fonctionnalité.
+- Intégration d'animations - Création d'animations fluides pour le jeu.
+- Utilisation d'un éditeur de code : Amélioration des compétences avec Visual Studio Code.
+- Gestion du temps et productivité : Capacité à développer un projet en 20h.
+
+**PREMIÈRE ÉBAUCHE**
+![Capture d’écran 2025-03-19 à 10 41 28](https://github.com/user-attachments/assets/8122f9a6-8e7b-4183-9550-630ccb075a30)
 
 
-
+Lien: https://finkth.github.io/SNAKE---MADE-HOME/
