@@ -115,7 +115,9 @@ Compétences:
 - Gestion du temps et productivité : Capacité à développer un projet en 20h.
 
 **PREMIÈRE ÉBAUCHE**
-![Capture d’écran 2025-03-19 à 10 41 28](https://github.com/user-attachments/assets/8122f9a6-8e7b-4183-9550-630ccb075a30)
+
+![Capture d’écran 2025-03-19 à 10 45 09](https://github.com/user-attachments/assets/b55ca630-e73f-44c3-862c-b6e0c45e40f1)
+
 
 
 Lien: https://finkth.github.io/SNAKE---MADE-HOME/
