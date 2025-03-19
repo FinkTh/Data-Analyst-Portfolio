@@ -108,7 +108,7 @@ Mise en situation:
 Compétences:
 - Langage de programmation moderne : Utilisation de JavaScript pour la logique du jeu.
 - Maîtrise du HTML et CSS : Création de l'interface utilisateur et du design responsive.
-- Utilisation d'un éditeur de code : Amélioration des compétences avec *Visual Studio Code*.
+- Utilisation d'un éditeur de code : Amélioration des compétences avec **Visual Studio Code**.
 - Design visuel et expérience utilisateur ergonomique.
 - Débogage et tests : Identification et correction des erreurs, tests de fonctionnalité.
 - Intégration d'animations : Création d'animations fluides pour le jeu.
