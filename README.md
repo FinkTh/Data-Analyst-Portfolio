@@ -103,7 +103,7 @@ Projet réalisé en 17h pour une première version d'un jeu snake sur ordinateur
 
 Mise en situation:
 
-*L'idée était de savoir si j'étais capable de faire une première version d'un jeu avec des nouveaux languages informatique en moins de 24h. C'est projet que j'envisage de version sur plusieurs étape. La première: la version sur ordinateur*
+*L'idée était de savoir si j'étais capable de faire une première version d'un jeu avec des nouveaux languages informatique en moins de 24h. C'est un projet que j'envisage avec plusieurs versions(sur plusieurs étapes). La première : la version sur ordinateur*
 
 Compétences:
 - Langage de programmation moderne : Utilisation de JavaScript pour la logique du jeu.
