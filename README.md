@@ -116,7 +116,8 @@ Compétences:
 
 **PREMIÈRE ÉBAUCHE**
 
-![Capture d’écran 2025-03-19 à 10 45 09](https://github.com/user-attachments/assets/b55ca630-e73f-44c3-862c-b6e0c45e40f1)
+
+![Capture d’écran 2025-03-19 à 11 03 28](https://github.com/user-attachments/assets/cb971c14-044a-482e-9243-cafffc044234)
 
 
 
