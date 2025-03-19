@@ -120,4 +120,5 @@ Compétences:
 
 
 
-Lien: https://finkth.github.io/SNAKE---MADE-HOME/
+Lien du jeu : https://finkth.github.io/SNAKE---MADE-HOME/
+Lien Repo : https://github.com/FinkTh/SNAKE---MADE-HOME/tree/main
