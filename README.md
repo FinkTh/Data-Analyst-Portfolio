@@ -73,7 +73,7 @@ Compétences:
     - **XGBoost (RMSE = 160.7)** : meilleur compromis performance/interprétabilité.
 
 ---
-[INTÉFRER UNE IA POUR UN SITE E-COMMERCE DE PLANTES](#)
+[INTÉGRER UNE IA POUR UN SITE E-COMMERCE DE PLANTES](#)
 
 Projet réalisé lors de ma certification Concepteur Développeur en Intelligence Artificielle et Analyse Big Data, Option Data Analyse 
 
