@@ -107,6 +107,7 @@ Mise en situation:
 
 Compétences:
 - Langage de programmation moderne : Utilisation de JavaScript pour la logique du jeu.
+- Utilisation de l'API Canvas pour le rendu graphique
 - Maîtrise du HTML et CSS : Création de l'interface utilisateur et du design responsive.
 - Utilisation d'un éditeur de code : Amélioration des compétences avec **Visual Studio Code**.
 - Design visuel et expérience utilisateur ergonomique.
