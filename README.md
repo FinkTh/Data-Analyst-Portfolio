@@ -112,7 +112,7 @@ Compétences:
 - Design visuel et expérience utilisateur ergonomique.
 - Débogage et tests : Identification et correction des erreurs, tests de fonctionnalité.
 - Intégration d'animations : Création d'animations fluides pour le jeu.
-- Gestion du temps et productivité : Capacité à développer un projet en 20h.
+- Gestion du temps et productivité : Capacité à développer un projet en moins de 20h.
 
 **PREMIÈRE ÉBAUCHE**
 
