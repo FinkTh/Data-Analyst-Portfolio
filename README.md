@@ -97,9 +97,9 @@ Compétences:
 
 
 ---
-[CRÉATION D'UN JEU SNAKE EN MOINS DE 20H](#)
+[CRÉATION D'UN JEU SNAKE EN 17H](#)
 
-Projet réalisé en moins de 20h pour une première version d'un jeu snake sur ordinateur 
+Projet réalisé en 17h pour une première version d'un jeu snake sur ordinateur 
 
 Mise en situation:
 
